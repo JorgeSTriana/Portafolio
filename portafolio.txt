@@ -1,0 +1,36 @@
+Portafolio
+
+Responsive Personal Portfolio Website Using HTML CSS And JavaScript | Dark/Light Mode
+
+📁 Assets 
+Icons: https://iconscout.com/unicons
+Fonts: https://fonts.google.com/
+GitHub: https://github.com/bedimcode
+Swiper: https://swiperjs.com/
+
+⚙️ Other Utilities
+Remove the background from your image
+https://www.remove.bg/
+
+HSL color mode
+https://www.w3schools.com/colors/colo...
+
+Blob Generator
+https://www.blobmaker.app/
+
+Center image within blob
+X: horizontal, Y: vertical
+
+Attribute to insert image
+Change the svg  attribute xlink:href="" to href=""
+
+📂 Files To Follow Tutorial
+https://github.com/bedimcode/responsi...
+
+🧠 Knowledge
+Html, CSS(Grid, Flexbox), Variables Css, JavaScript DOM, Responsive Web Design. Anyway you can learn everything mentioned. Follow the tutorial.
+
+
+https://github.com/bedimcode/responsive-portfolio-website-Alexa
+
+https://www.youtube.com/watch?v=27JtRAI3QO8&ab_channel=Bedimcode
